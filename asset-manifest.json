@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/facebook_app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/facebook_app/static/js/main.74d33ee3.chunk.js",
-    "main.js.map": "/facebook_app/static/js/main.74d33ee3.chunk.js.map",
-    "runtime-main.js": "/facebook_app/static/js/runtime-main.4333aeb6.js",
-    "runtime-main.js.map": "/facebook_app/static/js/runtime-main.4333aeb6.js.map",
-    "static/js/2.a7df3a29.chunk.js": "/facebook_app/static/js/2.a7df3a29.chunk.js",
-    "static/js/2.a7df3a29.chunk.js.map": "/facebook_app/static/js/2.a7df3a29.chunk.js.map",
-    "index.html": "/facebook_app/index.html",
-    "precache-manifest.79264a753d4b9abf0a0593849fd21977.js": "/facebook_app/precache-manifest.79264a753d4b9abf0a0593849fd21977.js",
-    "service-worker.js": "/facebook_app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/facebook_app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.a7df3a29.chunk.js.LICENSE.txt": "/facebook_app/static/js/2.a7df3a29.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/facebook_app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/facebook-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/facebook-app/static/js/main.a2a279c6.chunk.js",
+    "main.js.map": "/facebook-app/static/js/main.a2a279c6.chunk.js.map",
+    "runtime-main.js": "/facebook-app/static/js/runtime-main.a6771948.js",
+    "runtime-main.js.map": "/facebook-app/static/js/runtime-main.a6771948.js.map",
+    "static/js/2.a7df3a29.chunk.js": "/facebook-app/static/js/2.a7df3a29.chunk.js",
+    "static/js/2.a7df3a29.chunk.js.map": "/facebook-app/static/js/2.a7df3a29.chunk.js.map",
+    "index.html": "/facebook-app/index.html",
+    "precache-manifest.54bb6f07e683929f63efa97236d75a4d.js": "/facebook-app/precache-manifest.54bb6f07e683929f63efa97236d75a4d.js",
+    "service-worker.js": "/facebook-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/facebook-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a7df3a29.chunk.js.LICENSE.txt": "/facebook-app/static/js/2.a7df3a29.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/facebook-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4333aeb6.js",
+    "static/js/runtime-main.a6771948.js",
     "static/js/2.a7df3a29.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.74d33ee3.chunk.js"
+    "static/js/main.a2a279c6.chunk.js"
   ]
 }
